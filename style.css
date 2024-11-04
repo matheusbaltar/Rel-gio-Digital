@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: darkslategrey;
+    font-family: Arial, sans-serif;
+}
+
+.clock {
+    font-size: 6rem;
+    font-weight: bold;
+    color: #ffffff;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 25px rgb(22, 20, 20)
+}
